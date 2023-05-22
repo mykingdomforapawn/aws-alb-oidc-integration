@@ -2,7 +2,7 @@
 
 > This project is part two of my software architecture journey. See my [software-architecture-journey](https://github.com/mykingdomforapawn/software-architecture-journey) repository for more details.
 
-This simple project lets the user write down commands to test the application logic in a script-like manner. The user can play around with a combination of different assets in a portfolio account.
+This simple AWS solution setup enables the OIDC integration of an Application Load Balancer with an Identity Provider of your choice. lets the user write down commands to test the application logic in a script-like manner. The user can play around with a combination of different assets in a portfolio account.
 
 ---
 
