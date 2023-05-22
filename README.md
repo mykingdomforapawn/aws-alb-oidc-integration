@@ -34,7 +34,7 @@ This simple AWS solution setup enables the OpenID Connect (OIDC) integration of 
 ### Create the Cloudformation stack
 - Create the stack and lie back
 - You can access the ALB via the registered domain name
-- Have a look at the diagrams below to get a better understanding about what is going on behind the scenes
+- Have a look at the diagram below to get a better understanding about what is going on behind the scenes
 
 ---
 
