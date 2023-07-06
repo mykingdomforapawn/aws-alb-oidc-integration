@@ -27,7 +27,7 @@ This simple AWS solution setup enables the OpenID Connect (OIDC) integration of 
 - Whereas the certificate registration is automated in the Cloudformation template, the domain registration has to be done manually
 - You can follow https://aws.amazon.com/de/getting-started/hands-on/get-a-domain/
 
-### Populate the Cloudforation template
+### Populate the Cloudformation template
 - The OIDC parameters can usually be found at https://[IdP domain name]/.well-known/openid-configuration
 - The ALB HTTPS listener parameters can be found in Route 53 after you registered a domain
 
