@@ -1,6 +1,6 @@
 # aws-alb-oidc-integration
 
-> This project is part two of my software architecture journey and more specifically the cloud platforms path. See my [software-architecture-journey](https://github.com/mykingdomforapawn/software-architecture-journey) repository for more details.
+> This project is part of my software architecture journey and more specifically the cloud platforms path. See my [software-architecture-journey](https://github.com/mykingdomforapawn/software-architecture-journey) repository for more details.
 
 This simple AWS solution setup enables the OpenID Connect (OIDC) integration of an Application Load Balancer (ALB) with an Identity Provider (IdP) of your choice, outsourcing the user authentication from your application to the ALB.
 
